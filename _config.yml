@@ -1,0 +1,28 @@
+name: Subtle Things
+favicon: null
+layout_spectrum: 0.4275779635645449
+typography_spectrum: 0.10181875433772802
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6913685698527843
+  lightness: 0.25735431956127286
+  saturation: 0.02098932513035834
+  rhythmicContrast: 0.35526328161358833
+purpose: []
